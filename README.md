@@ -2,7 +2,8 @@
 
 ![Image text](https://github.com/YichenZW/Robust-Det/blob/main/img-illust/GithubIllust.jpg)
 
-This repository includes the code implementation of the paper **Stumbling Blocks: Stress Testing the Robustness of Machine-Generated Text Detectors Under Attacks** ([arxiv](https://arxiv.org/abs/2402.11638)) by *Yichen Wang, Shangbin Feng, Abe Bohan Hou, Xiao Pu, Chao Shen, Xiaoming Liu, and Yulia Tsvetkov,* and *Tianxing He,* mainly at Paul G. Allen School of CSE, University of Washington. We comprehensively reveal that almost none of the existing machine-generated text detectors remain robust under all the attacks, and all detectors exhibit different loopholes. Further, we investigate the reasons behind these defects and propose initial out-of-the-box patches to improve robustness.
+This repository includes the code implementation of the paper **Stumbling Blocks: Stress Testing the Robustness of Machine-Generated Text Detectors Under Attacks** ([arxiv](https://arxiv.org/abs/2402.11638)) by *Yichen Wang, Shangbin Feng, Abe Bohan Hou, Xiao Pu, Chao Shen, Xiaoming Liu, and Yulia Tsvetkov,* and *Tianxing He,* mainly at Paul G. Allen School of CSE, University of Washington. We comprehensively reveal that almost none of the existing machine-generated text detectors remain robust under all the attacks, and all detectors exhibit different loopholes. Further, we investigate the reasons behind these defects and propose initial out-of-the-box patches to improve robustness. 
+The code can be used for detection research as a robustness evaluation benchmark.
 
 ## A. Installation
 
