@@ -212,3 +212,5 @@ For the patched detector that we proposed in Sec. 6.2.3, run `detect/run_with_fi
   year={2024}
 }
 ```
+
+_The work is done while Yichen Wang is interning at CSE University of Washington from Xi’an Jiaotong University. Other institutions involved are Johns Hopkins University (Abe Bohan Hou) and Peking University (Xiao Pu)._
