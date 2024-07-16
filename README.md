@@ -5,6 +5,8 @@
 This repository includes the code implementation of the paper **Stumbling Blocks: Stress Testing the Robustness of Machine-Generated Text Detectors Under Attacks** ([arxiv](https://arxiv.org/abs/2402.11638)) by *Yichen Wang, Shangbin Feng, Abe Bohan Hou, Xiao Pu, Chao Shen, Xiaoming Liu, and Yulia Tsvetkov,* and *Tianxing He,* mainly at Paul G. Allen School of CSE, University of Washington. We comprehensively reveal that almost none of the existing machine-generated text detectors remain robust under all the attacks, and all detectors exhibit different loopholes. Further, we investigate the reasons behind these defects and propose initial out-of-the-box patches to improve robustness. 
 The code can be used for detection research as a robustness evaluation benchmark.
 
+[Jul 16] Fixed the huggingface link. Now datasets are accessible.
+
 ## A. Installation
 
 (1) Install Python 3.9.18 and PyTorch 2.0.1. (slightly older or newer versions are probably also fine for both).
@@ -13,7 +15,7 @@ The code can be used for detection research as a robustness evaluation benchmark
 
 ## B. Dataset Generation
 
-**You can directly load our dataset from [huggingface link].** Save data in to `multi_model_data/` path.
+**You can directly load our dataset from [huggingface link](https://huggingface.co/datasets/ZachW/StumbBlock).** Save data in to `multi_model_data/` path.
 
 ---
 
